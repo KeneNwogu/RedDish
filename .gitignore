@@ -1,0 +1,10 @@
+﻿.env
+.vs
+[Oo]bj/
+[Ll]og/
+[Bb]in/
+
+*appsettings.json
+
+.vscode
+.vs
