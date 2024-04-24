@@ -42,7 +42,7 @@ dotnet build
 
 Run the following command to start the application:
    ```bash
-      dotnet run RedDish
+   dotnet run RedDish
 
 ### Project Structure
 The project follows a common structure for .NET Core projects:
