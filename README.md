@@ -1,4 +1,4 @@
-## .NET Core 7 Project - Readme
+## RedDish
 
 This document provides an overview of the .NET Core 7: [https://dotnet.microsoft.com/download/dotnet/7.0](https://dotnet.microsoft.com/download/dotnet/7.0) project named "[Project Name]".
 
@@ -45,12 +45,14 @@ Run the following command to start the application:
    dotnet run RedDish
 
 
-Project Structure
+### Project Structure
 The project follows a common structure for .NET Core projects:
 
-appsettings.json: Configuration settings for the application.
-Program.cs: Entry point for the application.
-Dependencies
-This project depends on the following external libraries:
+1. appsettings.json: Configuration settings for the application.
+2. Program.cs: Entry point for the application.
 
 ### Dependencies
+This project depends on the following external libraries:
+
+### API Documentation
+The API documentation can be accessed from http://localhost:5273/swagger/index.html after successfully running the project.
